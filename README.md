@@ -14,24 +14,24 @@ password: kelvinA1!
 
 Salesperson 1:
 ```
-sherita
-sheritaA1!
+username: sherita
+password: sheritaA1!
 ```
 
 Salesperson 2:
 ```
-terrence
-terrenceB2!
+username: terrence
+password: terrenceB2!
 ```
 
 Mechanic 1:
 ```
-patrick
-patrickA1!
+username: patrick
+password: patrickA1!
 ```
 
 Mechanic 2:
 ```
-jordan
-jordanB2!
+username: jordan
+password: jordanB2!
 ```
