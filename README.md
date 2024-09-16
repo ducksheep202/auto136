@@ -4,7 +4,7 @@ Repo URL: https://github.com/ducksheep202/auto136
 
 Video demonstration: 
 
-## Login credentails
+## Login Account
 
 Manager:
 ```
